@@ -7,11 +7,11 @@ class MailerConfig():
 		self.SMTP_PORT = 587
 
 		# Sender mail settings
-		self.SENDER_EMAIL_ADDRESS = ""
-		self.SENDER_EMAIL_PASSWORD = ""
+		self.SENDER_EMAIL_ADDRESS = "abhinavmathur2503@gmail.com"
+		self.SENDER_EMAIL_PASSWORD = "abhinav2003"
 
 		# Receiver mail settings
-		self.RECEIVER_EMAIL_ADDRESS = "<username>@kindle.com"
+		self.RECEIVER_EMAIL_ADDRESS = "abhinavmathur2503@gmail.com"
 
 		# Path to PWD
-		self.BASE_PATH = ""
+		self.BASE_PATH = "./"
